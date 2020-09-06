@@ -293,10 +293,10 @@ const MovieModal = (props) => {
               {playerAvail ? (
                 <Link href={playerLink} rel="noopener" target="_blank">
                   <Button
-                    style={{ marginLeft: "50px", backgroundColor: "tomato" }}
+                    style={{ marginLeft: "50px", backgroundColor: "lightblue" }}
                     variant="outlined"
                   >
-                    Watch
+                    Watch Now!
                   </Button>
                 </Link>
               ) : (
